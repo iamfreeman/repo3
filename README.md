@@ -2,8 +2,6 @@ boneCV
 
 Beaglebone Webcam and OpenCV Examples Repository.
 
-Copyright Derek Molloy, School of Electronic Engineering, Dublin City University
-
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that source code redistributions retain this notice.
 
 This software is provided AS IS and it comes with no warranties of any type.
